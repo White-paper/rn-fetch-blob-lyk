@@ -1,5 +1,5 @@
 {
-  "name": "rn-fetch-blob",
+  "name": "rn-fetch-blob-lyk",
   "version": "0.10.16",
   "description": "A module provides upload, download, and files access API. Supports file stream read/write for process large files.",
   "main": "index.js",
@@ -27,12 +27,9 @@
     }
   },
   "repository": {
-    "url": "https://github.com/joltup/rn-fetch-blob.git"
+    "url": "https://github.com/White-paper/rn-fetch-blob-lyk.git"
   },
-  "author": "Joltup",
+  "author": "lyk",
   "license": "MIT",
-  "contributors": [
-    "Ben <benhsieh@catchplay.com>",
-    "wkh237 <xeiyan@gmail.com>"
-  ]
+  "contributors": []
 }
